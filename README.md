@@ -23,8 +23,8 @@ Having an academic background related to science and management, I am currently 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 📫🤝🏻 Connect with Me
 
- - Connect with me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/martinluisrosas/) :bust_in_silhouette:
- - Shoot Me an [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:martinrosasortmann@gmail.com) :mailbox:
+ - Connect with me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/martinluisrosas/) 
+ - Shoot me an [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:martinrosasortmann@gmail.com) 
 
 ### Top languages
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=mlrosas21&langs_count=4&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
