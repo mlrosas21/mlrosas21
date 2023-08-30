@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
-  <h1 align="center">Welcome visitor!</h1>
+  <h1 align="center">Welcome!</h1>
 </div>
 
 ### Hi there, I'm Martín <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
